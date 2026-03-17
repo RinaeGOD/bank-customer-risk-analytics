@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Location,Account_Type,Income,Credit_Score
+1,56,Male,Durban,Current,78744,546
+2,69,Male,Durban,Current,61491,375
+3,46,Male,Cape Town,Savings,23589,453
+4,32,Male,Durban,Current,48484,734
+5,60,Male,Cape Town,Savings,41212,385
+6,25,Female,Johannesburg,Current,48525,584
+7,38,Male,Cape Town,Current,52202,519
+8,56,Female,Durban,Current,37635,368
+9,36,Female,Johannesburg,Savings,68208,346
+10,40,Female,Johannesburg,Savings,38828,393
+11,28,Male,Johannesburg,Current,23711,752
+12,28,Male,Cape Town,Savings,8420,503
+13,41,Male,Durban,Savings,5301,517
+14,53,Male,Johannesburg,Savings,50236,773
+15,57,Female,Johannesburg,Savings,71235,731
+16,41,Male,Johannesburg,Savings,59240,640
+17,20,Male,Cape Town,Savings,70726,588
+18,39,Male,Cape Town,Current,15492,553
+19,19,Male,Durban,Current,11102,656
+20,41,Male,Cape Town,Savings,55336,322
+21,61,Female,Johannesburg,Current,31641,821
+22,47,Male,Durban,Current,39584,399
+23,55,Female,Johannesburg,Current,37745,479
+24,19,Male,Johannesburg,Current,28093,522
+25,38,Female,Cape Town,Savings,71105,741
+26,50,Male,Durban,Current,56885,624
+27,29,Male,Cape Town,Current,41631,815
+28,39,Female,Cape Town,Savings,77991,315
+29,61,Female,Durban,Savings,9014,635
+30,42,Female,Johannesburg,Current,16093,557
+31,66,Male,Johannesburg,Current,23070,796
+32,44,Female,Durban,Current,40777,459
+33,59,Male,Johannesburg,Current,61958,774
+34,45,Male,Durban,Current,15729,679
+35,33,Female,Durban,Current,50017,844
+36,32,Female,Cape Town,Savings,71320,726
+37,64,Male,Durban,Current,32751,567
+38,68,Male,Cape Town,Current,59748,716
+39,61,Female,Johannesburg,Savings,10801,467
+40,69,Female,Johannesburg,Savings,24190,342
+41,20,Female,Johannesburg,Savings,54689,584
+42,54,Male,Johannesburg,Savings,55993,696
+43,68,Male,Cape Town,Current,34592,311
+44,24,Male,Johannesburg,Current,15647,601
+45,38,Male,Durban,Current,13716,552
+46,26,Male,Durban,Current,75316,798
+47,56,Male,Durban,Current,7368,334
+48,35,Female,Cape Town,Current,11655,389
+49,21,Male,Johannesburg,Savings,75031,717
+50,42,Male,Johannesburg,Current,60766,414
+51,31,Male,Johannesburg,Savings,18403,495
+52,67,Female,Cape Town,Savings,37097,800
+53,26,Male,Durban,Current,15966,792
+54,43,Male,Durban,Savings,57921,374
+55,19,Female,Johannesburg,Current,54726,712
+56,37,Male,Durban,Savings,55300,675
+57,45,Male,Durban,Current,27677,719
+58,64,Male,Cape Town,Savings,60609,576
+59,24,Male,Cape Town,Current,61661,693
+60,61,Male,Cape Town,Current,36024,756
+61,25,Female,Cape Town,Current,75313,491
+62,64,Female,Johannesburg,Current,58006,398
+63,52,Female,Cape Town,Current,20338,847
+64,31,Male,Durban,Savings,73027,395
+65,34,Male,Johannesburg,Savings,24508,489
+66,53,Male,Durban,Savings,8051,336
+67,67,Female,Durban,Current,53747,668
+68,57,Male,Durban,Savings,59021,824
+69,21,Male,Cape Town,Current,71412,578
+70,19,Female,Cape Town,Current,63335,516
+71,23,Male,Johannesburg,Savings,61179,572
+72,59,Female,Johannesburg,Savings,37093,361
+73,21,Female,Cape Town,Current,74678,641
+74,46,Female,Durban,Savings,44734,696
+75,35,Male,Johannesburg,Current,77615,318
+76,43,Male,Cape Town,Current,78523,476
+77,61,Male,Cape Town,Current,22019,695
+78,51,Male,Cape Town,Current,78847,744
+79,27,Male,Durban,Current,33251,532
+80,53,Male,Cape Town,Savings,30945,375
+81,31,Male,Cape Town,Savings,37217,564
+82,48,Female,Cape Town,Current,13308,754
+83,65,Male,Cape Town,Current,10949,683
+84,32,Female,Johannesburg,Savings,56990,805
+85,25,Male,Johannesburg,Savings,6150,666
+86,31,Male,Cape Town,Current,79740,443
+87,40,Male,Durban,Savings,71617,368
+88,57,Female,Johannesburg,Current,21896,398
+89,38,Female,Cape Town,Savings,51175,695
+90,33,Female,Johannesburg,Current,12805,324
+91,62,Female,Johannesburg,Savings,10237,768
+92,35,Male,Durban,Current,25056,783
+93,64,Female,Cape Town,Savings,50543,450
+94,41,Male,Cape Town,Savings,61556,443
+95,43,Male,Durban,Current,8343,338
+96,42,Female,Durban,Savings,18500,408
+97,62,Female,Cape Town,Current,58222,341
+98,58,Female,Cape Town,Savings,34375,485
+99,46,Female,Durban,Current,14662,697
+100,32,Female,Johannesburg,Savings,21964,522

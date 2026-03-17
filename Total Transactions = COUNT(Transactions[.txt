@@ -1,0 +1,15 @@
+Total Transactions = COUNT(Transactions[Transaction_ID])
+
+Total Amount = SUM(Transactions[Amount])
+
+Total Customers = DISTINCTCOUNT(Customers[Customer_ID])
+
+Default Rate = 
+DIVIDE(
+    CALCULATE(COUNT(Loans[Loan_ID]), Loans[Loan_Status] = "Default"),
+    COUNT(Loans[Loan_ID])
+)
+
+Risk Level = 
+IF(Customers[Credit_Score] < 580, "High Risk",
+    IF(Customers[Credit_Score] <= 700, "Medium Risk", "Low Risk"))
